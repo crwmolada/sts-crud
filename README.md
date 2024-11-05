@@ -1,5 +1,5 @@
 # Sistema de Gestión de Ventas
-Este proyecto es una aplicación de escritorio para gestionar ventas y productos, desarrollada en Java con Swing y conectada a una base de datos MySQL. Proporciona funcionalidades para registrar y consultar ventas, productos y detalles de transacciones.
+Este proyecto es una aplicación de escritorio para gestionar ventas y productos, desarrollada en Java con Swing y conectada a una base de datos MySQL. Proporciona funcionalidades para registrar y consultar ventas, productos y detalles de las ventas.
 
 # Características
 - **Gestión de Ventas**: Agregar, actualizar y eliminar ventas.
